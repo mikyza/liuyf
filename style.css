@@ -137,7 +137,7 @@ input[type=number] {
 
 /* Game Canvas */
 #canvas {
-    width: 50%;
+    width: 340px;
   
     height: 200px;
     aspect-ratio: 2/ 1;
